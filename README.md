@@ -1,3 +1,3 @@
 # postgres-cluster
 
-4 node pgpool / postgres setup
+3 node pgpool / postgres setup
